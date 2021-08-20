@@ -2,7 +2,6 @@
 #the below are the instructions for the Pandas Assignment
 
 # pandas-challenge
-Pandas Homework
 ## Background
 
 The data dive continues!
